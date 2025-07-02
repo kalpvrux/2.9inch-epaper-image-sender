@@ -9,7 +9,7 @@ A Python GUI application for sending images to 2.9-inch E-Paper displays via ser
 ## 📸 Application Preview
 
 ### Main Interface
-![Main Interface](docs/images/main_interface.png)
+![Main Interface](https://github.com/kalpvrux/2.9inch-epaper-image-sender/blob/main/app.png)
 *Main application window showing serial connection, image processing options, and controls*
 
 ## Features

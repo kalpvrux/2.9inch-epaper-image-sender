@@ -43,7 +43,7 @@ pip install tkinter pillow pyserial
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/kalpvrux/2.9inch-epaper-image-sender.git
-   cd epaper-image-sender
+   cd 2.9inch-epaper-image-sender
    ```
 
 2. **Install Python dependencies**:

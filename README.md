@@ -198,7 +198,7 @@ epaper-image-sender/
 ## Support
 
 For issues and questions:
-1. Check the [Issues](https://github.com/yourusername/epaper-image-sender/issues) page
+1. Check the [Issues](https://github.com/kalpvrux/2.9inch-epaper-image-sender/issues) page
 2. Create a new issue with detailed description
 3. Include system information and error messages
 

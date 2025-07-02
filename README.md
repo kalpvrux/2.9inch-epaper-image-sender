@@ -6,6 +6,12 @@ A Python GUI application for sending images to 2.9-inch E-Paper displays via ser
 ![Python](https://img.shields.io/badge/python-3.7+-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 
+## 📸 Application Preview
+
+### Main Interface
+![Main Interface](docs/images/main_interface.png)
+*Main application window showing serial connection, image processing options, and controls*
+
 ## Features
 
 - **Dual Display Modes**: Black & White and 4-level grayscale support

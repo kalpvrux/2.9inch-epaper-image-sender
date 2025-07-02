@@ -206,6 +206,6 @@ For issues and questions:
 
 ---
 
-**Developed by**: Kalp Dholakiya
+**Developed by**: Kalp Dholakiya  
 **Company**: Waveshare Electronics  
 **Copyright**: © 2024 Waveshare Electronics

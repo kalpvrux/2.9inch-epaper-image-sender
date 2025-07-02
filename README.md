@@ -182,10 +182,6 @@ epaper-image-sender/
 - **Serial Communication**: PySerial-based ESP32 communication
 - **GUI**: Tkinter-based user interface with progress tracking
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Waveshare Electronics for E-Paper display libraries

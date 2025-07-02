@@ -1,0 +1,20 @@
+# E-Paper Image Sender - Python Dependencies
+# GUI Framework (usually included with Python)
+# tkinter - included with most Python installations
+
+# Image Processing
+Pillow>=9.0.0
+
+# Serial Communication
+pyserial>=3.4
+
+# Threading support (built-in with Python)
+# threading - included with Python standard library
+
+# Time utilities (built-in with Python)
+# time - included with Python standard library
+
+# Additional useful packages for development/debugging (optional)
+# Uncomment if needed for development:
+# matplotlib>=3.5.0  # For additional image analysis
+# numpy>=1.21.0      # For advanced image processing

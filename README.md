@@ -1,4 +1,4 @@
-# E-Paper Image Sender
+# 2.9inch-epaper-image-sender
 
 A Python GUI application for sending images to 2.9-inch E-Paper displays via serial communication with ESP32. Supports both Black & White and 4-level grayscale display modes with color inversion options.
 
